@@ -12,4 +12,6 @@ let targetUpperBound = 150
 let currentHR = 147
 
 
+ let isInTarget = 10
+
 //: [Previous](@previous)  |  page 5 of 9  |  [Next: Exercise - Switch Statements](@next)
